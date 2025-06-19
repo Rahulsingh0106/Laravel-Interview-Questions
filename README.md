@@ -1,3 +1,4 @@
-Q1. What is Laravel and its features?
+## hasOne vs belongsTo
 
-`Ans. Laravel is one of the framework of PHP`
+**Watch it here:**  
+[![Watch on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
