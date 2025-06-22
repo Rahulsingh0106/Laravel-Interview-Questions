@@ -1,5 +1,5 @@
 
-### Q1). What is Laravel and what are its main features?
+### Q1). What is Laravel and its main features? Why laravel is better than other frameworks?
 
 
 ### Laravel is a popular open-source PHP framework used for building modern web applications.
@@ -25,6 +25,5 @@ It’s a software design pattern used in Laravel to separate concerns:
 - Controller connects the model to the view — handles user input and passes data
 
 Laravel follows this structure to keep your code clean and maintainable.
-
-
+```
 
